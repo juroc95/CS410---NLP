@@ -1,4 +1,4 @@
-# CS410-NLP
+# Natural Language Processing
 
 CS 410/510 Top: Natural Language Processing
 
